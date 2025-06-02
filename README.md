@@ -31,9 +31,9 @@
         <li><strong>Test Accuracy:</strong> 97.47%</li>
     </ul>
     <h3>📉 Training Loss Curve</h3>
-    <img src="ea087f73-f399-4adb-a048-7449c5ed07dd.png" alt="Training Loss Curve">
+    <img src="https://raw.githubusercontent.com/goldstring/Email-Spam-Detection-Using-NLTK-PYTORCH/refs/heads/main/training_loss.png" alt="Training Loss Curve">
     <h3>📘 Confusion Matrix</h3>
-    <img src="284e3498-aebe-409f-815a-a1a8b186bf9a.png" alt="Confusion Matrix">
+    <img src="https://raw.githubusercontent.com/goldstring/Email-Spam-Detection-Using-NLTK-PYTORCH/refs/heads/main/confustion_matrix.png" alt="Confusion Matrix">
     <h3>📋 Classification Report</h3>
     <table>
         <thead>
